@@ -31,6 +31,7 @@ I am a software engineering alumnus from the University of Science and Technolog
   - Optimizing app performance with tools like Instruments and Xcode's Profiler for smooth user experiences.
   - Deepening UIKit Mastery to build versatile and customizable user interfaces for iOS apps, providing more control over UI components compared to SwiftUI.
 
+---
 
 ## 📬 Get in Touch
 
