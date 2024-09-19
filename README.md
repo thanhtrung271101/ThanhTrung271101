@@ -2,7 +2,7 @@
 
 I am a software engineering alumnus from the University of Science and Technology - The University of Danang, currently pursuing my passion for mobile app development on both iOS and Android platforms. Driven by curiosity and a love for technology, I constantly explore new ideas and enjoy sharing my insights with the broader community.
 
-| <a href="https://github.com/thanhtrung271101/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=thanhtrung271101&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="thanhtrung271101's github stats" /></a> | <a href="https://github.com/asabeneh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtrung271101&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/thanhtrung271101/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=thanhtrung271101&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true" alt="thanhtrung271101's github stats" /></a> | <a href="https://github.com/asabeneh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtrung271101&layout=compact&theme=vue-dark&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ![](https://komarev.com/ghpvc/?username=thanhtrung271101&color=green)
