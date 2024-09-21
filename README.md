@@ -38,7 +38,6 @@ I am a software engineering alumnus from the University of Science and Technolog
 - Connect with me on:
   - [Email](npttrung2711@gmail.com)
   - [LinkedIn](https://www.linkedin.com/in/thanhtrung2711/)
-  - [Google](https://g.dev/thanhtrung2711)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
