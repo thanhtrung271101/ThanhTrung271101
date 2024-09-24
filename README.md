@@ -7,6 +7,8 @@ I am a software engineering alumnus from the University of Science and Technolog
 
 ![](https://komarev.com/ghpvc/?username=thanhtrung271101&color=green)
 
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=thanhtrung271101" alt="thanhtrung271101" /></p>
+
 ---
 
 ## 🚀 About Me
