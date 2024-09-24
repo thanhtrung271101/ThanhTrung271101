@@ -14,7 +14,7 @@ jobs:
           # Use this username's contribution graph
           user_name: thanhtrung271101
           # Text on contribution graph
-          text: THANHTRUNG
+          text: TT#2711
 
       - name: Pull
         run: git pull origin main
