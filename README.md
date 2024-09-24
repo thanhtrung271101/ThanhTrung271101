@@ -9,6 +9,16 @@ I am a software engineering alumnus from the University of Science and Technolog
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=thanhtrung271101" alt="thanhtrung271101" /></p>
 
+----
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-user-contribution-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-user-contribution.svg" />
+  <img alt="github-snake" src="dist/github-user-contribution.svg" />
+</picture>
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
+
 ---
 
 ## 🚀 About Me
