@@ -1,0 +1,28 @@
+name: gitartwork from a contribution graph
+on:
+  # schedule:
+   # - cron: '0 0 * * *' # Runs at 00:00 UTC every day.
+
+jobs:
+  build:
+    name: Make gitartwork SVG
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: jasineri/gitartwork@v1
+        with:
+          # Use this username's contribution graph
+          user_name: thanhtrung271101
+          # Text on contribution graph
+          text: THANHTRUNG
+
+      - name: Pull
+        run: git pull origin master
+
+      - uses: stefanzweifel/git-auto-commit-action@v4.15.1
+        with:
+          commit_message: "[gitartwork] Update action output"
+          file_pattern: gitartwork.svg
+          commit_user_name: thanhtrung271101
+          commit_user_email: npttrung2711@gmail.com # defaults to "github-actions[bot]@users.noreply.github.com"
+          commit_author: Nguyễn Phan Thành Trung <npttrung2711@gmail.com> # defaults to author of the commit that triggered the run
