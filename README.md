@@ -19,6 +19,10 @@ I am a software engineering alumnus from the University of Science and Technolog
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
+<p align="center">
+      <img src="gitartwork.svg" />
+  </p>
+
 ---
 
 ## 🚀 About Me
