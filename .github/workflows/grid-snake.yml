@@ -20,21 +20,15 @@ jobs:
     steps:
       - uses: actions/checkout@v4.1.7
 
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk@v3.2.0
+      # Generates the snake  
+      - uses: Platane/snk@v3
+        id: snake-gif
         with:
-          github_user_name: thanhtrung271101
+          github_user_name: ${{ github.repository_owner }}
+          # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
           outputs: |
+            dist/github-contribution-grid-snake.gif
             dist/github-contribution-grid-snake.svg
-        env:
-          # a GitHub token is required to fetch the contribution calendar from GitHub API
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: generate github-contribution-grid-snake-dark.svg
-        uses: Platane/snk@v3.2.0
-        with:
-          github_user_name: thanhtrung271101
-          outputs: |
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
