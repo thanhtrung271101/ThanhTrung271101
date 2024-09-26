@@ -52,8 +52,8 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 ## 📬 Get in Touch
 
 - Connect with me on:
-  - [Email](npttrung2711@gmail.com)
-  - [LinkedIn](https://www.linkedin.com/in/thanhtrung271101/)
+  - Email: npttrung2711@gmail.com
+  - LinkedIn: https://www.linkedin.com/in/thanhtrung271101/
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
