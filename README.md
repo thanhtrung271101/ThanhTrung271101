@@ -36,7 +36,7 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,swift,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=swift,js,html,css,react)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
