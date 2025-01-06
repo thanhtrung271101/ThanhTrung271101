@@ -7,7 +7,7 @@ I am a software engineering alumnus from the University of Science and Technolog
 
 ![](https://komarev.com/ghpvc/?username=thanhtrung271101&color=green)
 
-
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=thanhtrung271101)
 ----
 
 <picture>
