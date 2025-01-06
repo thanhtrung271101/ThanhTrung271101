@@ -6,8 +6,8 @@ I am a software engineering alumnus from the University of Science and Technolog
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtrung271101&show_icons=true&theme=vue-dark&layout=compact&cache_seconds=1800&langs_count=8)](https://github.com/thanhtrung271101)
 
 ![](https://komarev.com/ghpvc/?username=thanhtrung271101&color=green)
-
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=thanhtrung271101)
+
 ----
 
 <picture>
