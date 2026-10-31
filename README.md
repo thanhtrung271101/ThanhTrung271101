@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a1b27,45:24283b,100:70a5fd&text=Thanh%20Trung&fontColor=c0caf5&fontSize=56&fontAlignY=38&desc=iOS%20%C2%B7%20Mobile%20Developer%20%C2%B7%20Da%20Nang%2C%20Vietnam&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header" />
 
   <a href="https://github.com/thanhtrung271101">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=70A5FD&center=true&vCenter=true&width=560&lines=Native+iOS+with+Swift%2C+SwiftUI+%26+UIKit;Cross-platform+with+Flutter+%26+React+Native;Software+Engineering+%40+DUT+%E2%80%93+The+University+of+Danang;Always+shipping%2C+always+learning" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=70A5FD&center=true&vCenter=true&width=560&lines=Native+iOS+with+Swift%2C+SwiftUI+%26+UIKit;Cross-platform+with+Flutter+%26+React+Native;Software+Engineering;Always+shipping%2C+always+learning" alt="typing" />
   </a>
 
   <br/>
